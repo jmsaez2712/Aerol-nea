@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_account"
+        android:title="Mi cuenta">
+        <menu>
+            <item
+                android:id="@+id/menu_data"
+                android:title="Datos personales" />
+            <item
+                android:id="@+id/menu_documents"
+                android:title="Mis documentos de viaje" />
+            <item
+                android:id="@+id/menu_compa"
+                android:title="Mis compañeros de viaje" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menu_travels"
+        android:title="Mis viajes" />
+    <item
+        android:id="@+id/menu_cards"
+        android:title="Tarjetas de embarque" />
+    <item
+        android:id="@+id/menu_fligth"
+        android:title="Información sobre el vuelo" />
+    <item
+        android:id="@+id/menu_info"
+        android:title="Info actualizada" />
+    <item
+        android:id="@+id/menu_discounts"
+        android:title="Vales de descuento" />
+    <item
+        android:id="@+id/menu_reviste"
+        android:title="Revista de vuelo" />
+    <item
+        android:id="@+id/menu_terminos"
+        android:title="Términos y condiciones" />
+    <item
+        android:id="@+id/menu_help"
+        android:title="Centro de ayuda" />
+    <item
+        android:id="@+id/menu_contact"
+        android:title="Contactar con la aerolínea" />
+    <item
+        android:id="@+id/menu_privacy"
+        android:title="Política de privacidad" />
+    <item
+        android:id="@+id/menu_privacy2"
+        android:title="@string/configuraci_n_de_privacidad" />
+</menu>

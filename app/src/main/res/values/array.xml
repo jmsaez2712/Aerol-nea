@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tratamiento">
+        <item>Sr.</item>
+        <item>Sra.</item>
+        <item>Srta.</item>
+    </string-array>
+
+    <!-- Reply Preference -->
+
+    <string-array name="destinies">
+        <item>Madrid</item>
+        <item>Granada</item>
+        <item>Barcelona</item>
+        <item>Bilbao</item>
+        <item>Pontevedra</item>
+        <item>Valencia</item>
+        <item>New York</item>
+        <item>San Francisco</item>
+        <item>Toronto</item>
+        <item>Ottawa</item>
+        <item>Amsterdam</item>
+        <item>Londres</item>
+        <item>Frankfurt</item>
+    </string-array>
+</resources>

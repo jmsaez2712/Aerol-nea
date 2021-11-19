@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AerolíneaPRGMulti</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+
+    <string name="okDialog">Aceptar</string>
+    <string name="noDialog">Cancelar</string>
+    <string name="dialogTitle">Has seleccionado el seguro premium</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
