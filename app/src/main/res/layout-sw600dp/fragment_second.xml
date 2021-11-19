@@ -40,19 +40,17 @@
 
             <TextView
                 android:id="@+id/tvTitle2"
-                android:layout_width="155dp"
-                android:layout_height="0dp"
-                android:layout_marginStart="12dp"
-                android:layout_marginTop="92dp"
-                android:layout_marginBottom="498dp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
                 android:fontFamily="@font/adamina"
                 android:text="DICKINSON"
                 android:textColor="#F44336"
-                android:textSize="25dp"
+                android:textSize="100dp"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toTopOf="@+id/btCancelar"
-                app:layout_constraintStart_toStartOf="@+id/tvTotalPrice"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintBottom_toBottomOf="@+id/ivLogo2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent" />
 
             <TextView
                 android:id="@+id/tvTotalPrice"
